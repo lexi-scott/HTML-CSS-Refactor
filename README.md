@@ -22,3 +22,6 @@ THEN I find a concise, descriptive title
 
 Link to deployed page: 
 https://lexi-scott.github.io/HTML-CSS-Refactor/
+
+Image of page:
+![image](https://user-images.githubusercontent.com/111103755/202589984-2c13c2f9-0680-4e49-b65e-ed9d547b0333.png)
