@@ -21,4 +21,4 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 Link to deployed page: 
-
+https://lexi-scott.github.io/HTML-CSS-Refactor/
